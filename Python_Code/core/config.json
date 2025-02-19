@@ -1,0 +1,24 @@
+{
+  "api": {
+    "key": "",
+    "model": "gemini-2.0-flash-exp"
+  },
+  "paths": {
+    "subprogram_dir": "actions",
+    "venv_name": "myAssistant"
+  },
+  "db_config": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "",
+    "password": "",
+    "database": ""
+  },
+  "log": {
+    "file": "logs/application.log",
+    "level": "INFO"
+  },
+  "shell": {
+    "powershell_path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  }
+}

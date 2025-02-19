@@ -1,0 +1,6 @@
+If the number 0 is written at the beginning of the request, followed by some text, the database will not be searched to see if such an action already exists, nor will any new action be saved to the database.
+
+If the number 1 is written at the beginning of the request, followed by some text, the database will not be searched to see if such an action already exists, but a new action will be written to the database regardless of whether a similar action already exists.
+
+There is need to activate virtual environment before you run the python main.py script by command:
+myAssistant\Scripts\activate
