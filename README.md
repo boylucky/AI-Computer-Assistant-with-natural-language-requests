@@ -13,3 +13,6 @@ I welcome your comments. This is a very basic proof of concept and not a finishe
 Thank you for your time, and I look forward to your comments and hearing if anyone has tried the program. However, please be extremely careful when entering actions to avoid any unintended steps. Keep in mind that this is an experimental project intended for testing purposes and not for any real production deployment. It's a proof of concept of this idea.
 
 # Once more: Testing the program is at your own risk.
+
+![AI Computer Assistant](AI_comp_assistant.jpg)
+
